@@ -8,6 +8,7 @@ Este blog fue creado siguiendo el [ curso de Git y Github](https://platzi.com/cu
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
+* Creado por el increíble Platzi Team
 <br />
 
 ## Para crear este REAME.md ocupé [Editor.md](https://pandao.github.io/editor.md/en.html)
